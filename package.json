@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "css-loader": "^0.28.11",
     "postcss-loader": "^2.1.5",
     "react": "^16.4.1",
